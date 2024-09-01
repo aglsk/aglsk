@@ -21,6 +21,7 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-34A853?style=for-the-badge&logo=google-apps-script&logoColor=white)
 ![APIs](https://img.shields.io/badge/APIs-0288D1?style=for-the-badge&logo=api&logoColor=white)
+![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=terminal&logoColor=white)
 
 
 [![Gampiot-inc](https://img.shields.io/badge/Gampiot--inc-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gampiot-inc)
