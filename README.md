@@ -23,8 +23,6 @@
 ![APIs](https://img.shields.io/badge/APIs-0288D1?style=for-the-badge&logo=api&logoColor=white)
 ![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=terminal&logoColor=white)
 
-
-[![Gampiot-inc](https://img.shields.io/badge/Gampiot--inc-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gampiot-inc)
-[![Robok-inc](https://img.shields.io/badge/Robok--inc-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Robok-inc)
+[![Robok-inc](https://img.shields.io/badge/Robok--inc-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/robok-engine)
 
 ![Text Badge](https://img.shields.io/badge/%22I%27m%20learning%20the%20right%20way.%22%20--%20Vin%C3%ADcius%20Rocha-4A90E2?style=for-the-badge&logo=writer&logoColor=white)
